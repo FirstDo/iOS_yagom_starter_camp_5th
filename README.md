@@ -15,3 +15,11 @@
 |🇰🇷 [다섯번째 프로젝트 - 만국박람회](https://github.com/FirstDo/ios-exposition-universelle/tree/STEP3)|2022.04.11 ~ 2022.04.22|[태엔젤](https://github.com/Taeangel), [두두](https://github.com/FirstDo)|[린생](https://github.com/jungseungyeo)|
 |🏦 [여섯번째 프로젝트 - 은행 창구 매니저](https://github.com/FirstDo/ios-bank-manager)|2022.04.25 ~ 2022.05.06|[에디](https://github.com/kimkyunghun3), [두두](https://github.com/FirstDo)|[또치](https://github.com/TTOzzi)|
 |🏪 [일곱번째 프로젝트 - 오픈 마켓]()|2022.05.09 ~ 2022.05.20|[사파리](https://github.com/saafaaari), [두두](https://github.com/FirstDo)|[개굴](https://github.com/yoo-kie)|
+
+### MVVM + Combine으로 처음부터 다시 만들기 
+
+- [x] 🍹 세번째 프로젝트 - 쥬스메이커
+- [ ] 🧮 네번째 프로젝트 - 계산기
+- [ ] 🇰🇷 다섯번째 프로젝트 - 만국박람회
+- [ ] 🏦 여섯번째 프로젝트 - 은행 창구 매니저 
+- [ ] 🏪 일곱번째 프로젝트 - 오픈 마켓
